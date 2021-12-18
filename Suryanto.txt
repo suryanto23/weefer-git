@@ -1,0 +1,4 @@
+Name: Suryanto
+Gender: Male
+Age: 24
+Address: Jln Taman Baloi Mas, Perum Garden Point 2 Kota Batam
